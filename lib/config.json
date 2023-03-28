@@ -1,0 +1,19 @@
+{
+  "thumb": "https://telegra.ph/file/f9b2ed3ff30d538f086ae.jpg",
+  "namebot": "PandaBotz",
+  "botNumber": "855389162590@s.whatsapp.net",
+  "owner": ["6282181337337@s.whatsapp.net"],
+  "instagram": "https://instagram.com/arrezza20",
+  "author": "Yntkts",
+  "session": "senku-md",
+  "email": "yntkts@gmail.com",
+  "self": false,
+  "packInfo":{
+    "packname": "PandaBotz by",
+    "author": "@arrezza20"
+  },
+  "ignore": {
+		"directory": ["umum"]
+	},
+	"timezone": "Asia/Jakarta"
+}
